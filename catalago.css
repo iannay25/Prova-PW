@@ -1,0 +1,167 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+header{
+    background-color: #e4a51d;
+    text-align: center;
+    padding: 15px;
+    color: #ffffda
+}
+h2{
+    margin-top: 60px;
+    background-color:#ffa927;
+    text-align: center;
+    color: white;
+}
+h4{
+    margin-top: 60px;
+    background-color:#ffa927;
+    text-align: center;
+    color: white;
+    font-size: 26px;
+}
+header {
+    margin-bottom: 80px; 
+}
+.container {
+    background-color: #eee;
+    min-height: 70vh;
+    padding: 100px;
+}
+.catalago-produto{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card{
+    width: 29%;
+    margin: 1% 1%;
+    display: inline-block;
+    padding: 15px;
+}
+
+.produto-imagem{
+    height: 310px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+}
+#img-1{
+    background-image: url('../img/chaveiro1.jpeg');
+}
+#img-2{
+    background-image: url('../img/chaveiro2.jpeg');
+}
+#img-3{
+    background-image: url('../img/chaveiro3.jpeg');
+}
+#img-4{
+    background-image: url('../img/brinco1.jpeg');
+}
+#img-5{
+    background-image: url('../img/brinco2.jpeg');
+}
+#img-6{
+    background-image: url('../img/brinco3.jpeg');
+}
+#img-7{
+    background-image: url('../img/boton1.jpeg');
+}
+#img-8{
+    background-image: url('../img/boton2.jpeg');
+}
+#img-9{
+    background-image: url('../img/boton3.jpeg');
+}
+#img-10{
+    background-image: url('../img/pulseira1.jpeg');
+}
+#img-11{
+    background-image: url('../img/pulseira2.jpeg');
+}
+#img-12{
+    background-image: url('../img/pulseira3.jpeg');
+}
+#img-13{
+    background-image: url('../img/camiseta1.jpeg');
+}
+#img-14{
+    background-image: url('../img/camiseta2.jpeg');
+}
+#img-15{
+    background-image: url('../img/camiseta3.jpeg');
+}
+#img-16{
+    background-image: url('../img/moleton1.jpeg');
+}
+#img-17{
+    background-image: url('../img/moletom2.jpeg');
+}
+#img-18{
+  background-image: url('../img/moletom3.jpeg');
+}
+#img-19{
+    background-image: url('../img/pijama1.jpeg');
+}
+#img-20{
+    background-image: url('../img/pijama2.jpeg');
+}
+#img-21{
+    background-image: url('../img/pijama3.jpeg');
+}
+h3{
+    margin-bottom: 10px;
+    color: #e4a51d;
+    font-size: 24px;
+    border-left: 2px solid #fc950f;
+    padding-left: 8px;
+}
+
+.card p{
+    margin-bottom: 10px;
+}
+.bold {
+    font-weight: bold;
+}
+.btn{
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #fac430;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.bnt:hover {
+ background-color: #0f642f;
+}
+
+footer{
+    background-color: #e4a51d;
+    text-align: center;
+    padding: 80px;
+    color: #fff;
+}
+.botton{
+    display: block;
+    width: 10%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color:#ffa927;
+    color: #0e0d0d;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 90%;
+    background-size: cover;
+
+}
+
