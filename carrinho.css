@@ -1,0 +1,100 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+header{
+    background-color: #e4a51d;
+    text-align: center;
+    padding: 15px;
+    color: #ffffda
+}
+
+h1{
+    padding: 5px;
+}
+h2{
+    margin-top: 60px;
+    text-align: left;
+    color: rgb(39, 38, 38);
+}
+h4{
+    margin-top: 60px;
+    background-color:#ffa927;
+    text-align: center;
+    color: white;
+    font-size: 26px;
+}
+h5{
+    font-size: 12px;
+    color:#1b1818
+}
+h6{
+    font-size:15px ;
+    color: #ffa947;
+}
+
+.tt {
+    display: flex;
+    gap: 20px;
+    justify-content: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.card{
+    margin: 1% 1%;
+    display: flex;
+    gap: 30px;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+
+.produto-imagem{
+    height: 310px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+}
+#img-1{
+    background-image: url('../img/chaveiro1.jpeg');
+}
+#img-2{
+    background-image: url('../img/chaveiro2.jpeg');
+}
+#img-5{
+    background-image: url('../img/brinco2.jpeg');
+}
+#img-17{
+    background-image: url('../img/moletom2.jpeg');
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #fac430;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    appearance: none; /* Remove a aparência padrão do select em alguns navegadores */
+}
+
+select:focus { 
+    border-color:#e4a51d;
+    outline: none;
+}
+button{
+    background-color: #e4a51d;
+    font-size: 15px;
+}
+
