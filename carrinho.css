@@ -98,3 +98,12 @@ button{
     font-size: 15px;
 }
 
+footer{
+    background-color: #e4a51d;
+    text-align: center;
+    padding: 40px;
+    color: #fff;
+}
+div{
+    padding-top: 15px;
+}

@@ -79,6 +79,12 @@ tr:hover {
 footer{
     background-color: #e4a51d;
     text-align: center;
-    padding: 80px;
+    padding: 40px;
     color: #fff;
 }
+div{
+    padding-top: 15px;
+}
+h6{
+    font-size: 14px;
+ }

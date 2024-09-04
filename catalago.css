@@ -55,6 +55,9 @@ h4{
     color: white;
     font-size: 26px;
 }
+h6{
+   font-size: 14px;
+}
 header {
     margin-bottom: 80px; 
 }
@@ -178,7 +181,7 @@ h3{
 footer{
     background-color: #e4a51d;
     text-align: center;
-    padding: 80px;
+    padding: 40px;
     color: #fff;
 }
 .botton{
@@ -195,4 +198,6 @@ footer{
     background-size: cover;
 
 }
-
+div{
+    padding-top: 15px;
+}
